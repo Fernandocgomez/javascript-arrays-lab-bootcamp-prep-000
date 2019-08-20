@@ -8,6 +8,6 @@ function destructivelyPrependKitten(name){
 }
 
 function destructivelyAppendKitten(name){
-  array.unshift()
+  array.push()
   return array
 }
