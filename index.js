@@ -7,4 +7,7 @@ function destructivelyPrependKitten(name){
   return array
 }
 
-function 
+function destructivelyAppendKitten(name){
+  array.unshift()
+  return array
+}
