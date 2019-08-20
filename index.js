@@ -9,6 +9,6 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten(name) {
-  kittens.pop()
+  kittens.pop('Bob')
   return kittens
 }
